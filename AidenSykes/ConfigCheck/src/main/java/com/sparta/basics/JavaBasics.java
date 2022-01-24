@@ -8,7 +8,8 @@ public class JavaBasics {
         // String,  <-- not primitive, capitalised therefore class
         boolean isOpen = true;
         String name = "Aiden";
-        System.out.println(name);
+        String anotherName = "Aiden"; //refers to the same string
+        System.out.println("My name is " + name);
     }
 
 
