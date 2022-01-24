@@ -8,11 +8,10 @@ public class Summer {
     }
 
     public int sumArray(int[] theInts){
-            int sum = 0; // initialize sum
+            int total = 0;
             int i;
-            // Iterate through all elements and add them to sum
             for (i = 0; i < theInts.length; i++)
-                sum += theInts[i];
-            return sum;
+                total += theInts[i];
+            return total;
     }
 }
