@@ -6,6 +6,7 @@ public class JavaBasics {
         int myIndex = 0;
         // float, boolean, byte, short, long, double <-- primitive types
         // String,  <-- not primitive, capitalised therefore class
+        boolean isOpen = true;
 
     }
 
