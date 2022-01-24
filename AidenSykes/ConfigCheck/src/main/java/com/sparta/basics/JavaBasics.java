@@ -7,7 +7,8 @@ public class JavaBasics {
         // float, boolean, byte, short, long, double <-- primitive types
         // String,  <-- not primitive, capitalised therefore class
         boolean isOpen = true;
-
+        String name = "Aiden";
+        System.out.println(name);
     }
 
 
