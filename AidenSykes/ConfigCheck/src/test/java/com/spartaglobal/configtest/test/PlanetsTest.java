@@ -27,5 +27,20 @@ public class PlanetsTest {
 
     }
 
+    @Test
 
+    public void testCloserThan() {
+
+        Planets planetTester;
+        planetTester = Planets.MARS;
+
+        for (Planets plan : Planets.values()) {
+
+            if (planetTester.distance() < plan.distance()){
+                System.out.println(planetTester + " Is closer to the sun than " + plan + " With a difference of " + (plan.distance() - planetTester.distance()) + " Million kilometres");
+            }
+
+        }
+
+    }
 }
