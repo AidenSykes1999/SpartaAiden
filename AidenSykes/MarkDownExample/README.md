@@ -24,4 +24,38 @@ __underscores__
 
 [Reference Relative Links](src/example.txt)
 
-![alt-image](https://www.collinsdictionary.com/images/full/apple_158989157.jpg)
+![alt-image]()~
+
+
+#Code Syntax
+
+
+Java `Int a =2` wrapper class `Integer a = 2` both work
+
+```java
+
+var x = 3;
+System.out.println(x+1);
+
+```
+
+```sqlite-sql
+
+SELECT * FROM Customers;
+
+
+```
+
+#Blockquotes
+
+>Greentext Symbols
+> >mfw indents
+
+#Tables
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
