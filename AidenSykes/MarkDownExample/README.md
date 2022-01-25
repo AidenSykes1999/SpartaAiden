@@ -22,4 +22,6 @@ __underscores__
 
 [I'm an inline-style Link](https://www.google.com)
 
-[Reference Relative Links](example.txt)
+[Reference Relative Links](src/example.txt)
+
+![alt-image](https://www.collinsdictionary.com/images/full/apple_158989157.jpg)
