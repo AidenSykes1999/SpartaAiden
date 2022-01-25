@@ -11,15 +11,15 @@ public enum Planets {
     URANUS  (8.686e+25, 2871),
     NEPTUNE (1.024e+26, 4495);
 
-    private final double mass;
-    private final double distance;
+    private final double getMass;
+    private final double getDistance;
 
     Planets(double mass, double distance) {
-        this.mass = mass;
-        this.distance = distance;
+        this.getMass = mass;
+        this.getDistance = distance;
     }
 
-    public double mass()   { return mass; }
-    public double distance() { return distance; }
+    public double getMass()   { return getMass; }
+    public double getDistance() { return getDistance; }
 
 }

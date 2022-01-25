@@ -11,7 +11,7 @@ public class PlanetsTest {
 
         Planets planetTester;
         planetTester = Planets.EARTH;
-        System.out.println(planetTester.mass());
+        System.out.println(planetTester.getMass());
 
 
     }
@@ -22,7 +22,7 @@ public class PlanetsTest {
 
         Planets planetTester;
         planetTester = Planets.EARTH;
-        System.out.println(planetTester.distance());
+        System.out.println(planetTester.getDistance());
 
 
     }
@@ -36,8 +36,8 @@ public class PlanetsTest {
 
         for (Planets plan : Planets.values()) {
 
-            if (planetTester.distance() < plan.distance()){
-                System.out.println(planetTester + " Is closer to the sun than " + plan + " With a difference of " + (plan.distance() - planetTester.distance()) + " Million kilometres");
+            if (planetTester.getDistance() < plan.getDistance()){
+                System.out.println(planetTester + " Is closer to the sun than " + plan + " With a difference of " + (plan.getDistance() - planetTester.getDistance()) + " Million kilometres");
             }
 
         }
