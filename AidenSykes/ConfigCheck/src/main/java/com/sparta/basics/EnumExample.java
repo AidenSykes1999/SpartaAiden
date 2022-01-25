@@ -2,12 +2,7 @@ package com.sparta.basics;
 
 public class EnumExample {
 
-    public enum DayIndex{
 
-        MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
-
-
-    }
 
     public static void main(String[] args){
 
