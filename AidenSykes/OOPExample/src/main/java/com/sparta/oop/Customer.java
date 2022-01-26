@@ -1,12 +1,14 @@
 package com.sparta.oop;
 
 public class Customer {
+    
+    
+    // All instance variables should be private. never public **possibly** protected
+    private String firstName;
+    private String lastName;
+    private int customerId;
 
-    String firstName;
-    String lastName;
-    int customerId;
-
-    String convertToString(){
+    public String convertToString(){
 
         return  "Customer #" + this.customerId +
                 " : " + this.firstName + " " + this.lastName;
