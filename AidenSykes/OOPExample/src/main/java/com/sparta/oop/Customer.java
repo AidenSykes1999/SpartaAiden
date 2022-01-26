@@ -6,7 +6,12 @@ public class Customer {
     String lastName;
     int customerId;
 
+    String convertToString(){
 
+        return  "Customer #" + this.customerId +
+                " : " + this.firstName + " " + this.lastName;
+
+    }
 
 
 }

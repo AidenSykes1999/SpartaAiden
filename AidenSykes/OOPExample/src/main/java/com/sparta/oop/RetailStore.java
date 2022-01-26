@@ -8,8 +8,9 @@ public class RetailStore {
         sykes.lastName = "Sykes";
         sykes.customerId = 1;
 
-        System.out.println("Customer #" + sykes.customerId +
-                " : " + sykes.firstName + " " + sykes.lastName);
+
+
+        System.out.println(sykes.convertToString());
 
 
     }
