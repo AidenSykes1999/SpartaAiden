@@ -4,10 +4,9 @@ public class RetailStore {
     public static void main(String[] args) {
 
         Customer sykes = new Customer();
-        sykes.firstName = "Aiden";
-        sykes.lastName = "Sykes";
-        sykes.customerId = 1;
-
+        sykes.setFirstName("Aiden");
+        sykes.setLastName("Sykes"); // Use getters and setters
+        sykes.setCustomerId(1);
 
 
         System.out.println(sykes.convertToString());
