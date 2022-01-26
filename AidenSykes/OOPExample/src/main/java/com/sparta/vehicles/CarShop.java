@@ -6,17 +6,12 @@ public class CarShop {
 
     public static void main(String[] args) {
 
-        Vehicle myCar = new Vehicle();
 
-        myCar.make = "Ford";
-        myCar.model = "Puma";
-        myCar.licensePlate = "SP4 RT4";
-        myCar.price = 5000;
-        myCar.engineSize = "Large";
-        myCar.colour = "Red";
-        myCar.status = "Brand-New";
+        Vehicle myCar =  new Vehicle("Ford", "Puma", "black" ,"Large"
+                ,"SP4 RT4" ,5000, "Brand-New");
 
-        System.out.println(myCar.convertToString());
+        System.out.println(myCar);
+
 
 
     }

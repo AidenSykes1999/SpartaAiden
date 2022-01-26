@@ -10,7 +10,7 @@ public class Customer {
 
     // methods should general be public due to being the face of your program
 
-    public String convertToString(){
+    public String toString(){
 
         return  "Customer #" + this.customerId +
                 " : " + this.firstName + " " + this.lastName;
