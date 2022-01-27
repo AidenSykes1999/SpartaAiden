@@ -3,7 +3,7 @@ package com.sparta.oop;
 public class Employee extends Person{
 
     private String departmentName;
-    private float salary;
+    private double salary;
 
 
     public Employee(String firstName, String lastName) {
@@ -12,6 +12,11 @@ public class Employee extends Person{
 
     public Employee(){
         super();
+    }
+
+    @Override
+    public void delete() {
+
     }
 
     @Override

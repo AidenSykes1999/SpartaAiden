@@ -1,6 +1,6 @@
 package com.sparta.oop;
 
-public class Customer extends Person{
+public class Customer extends Person implements Comparable<Customer>{
 
 
     private int customerId;
@@ -35,7 +35,17 @@ public class Customer extends Person{
         this("no-name","no-name", -1);
     }
 
+    @Override
+    public void delete() {
+
+    }
+
     public void setCustomerId(int customerId) {
         this.customerId = customerId;
+    }
+
+    @Override
+    public int compareTo(Customer other) {
+        return getFirstName().compareTo(other.getFirstName());
     }
 }
