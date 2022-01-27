@@ -3,6 +3,25 @@ package com.sparta.vehicles;
 import com.sparta.oop.Customer;
 
 public class CarShop {
+    
+    // single line comment
+    /*
+    multi-line comment
+     */
+
+    /**
+     *
+     * JavaDoc comment
+     *
+     *tags allow documentation
+     * @param args
+     * The array of Strings which contains the program arguments.
+     *
+     *
+     */
+    
+    
+    
 
     public static void main(String[] args) {
 
