@@ -1,6 +1,6 @@
 package com.sparta.oop;
 
-public class Person {
+public abstract class Person {
     // All instance variables should be private. never public **possibly** protected. Private variables only available internally
     protected String firstName;
     protected String lastName;
@@ -13,6 +13,10 @@ public class Person {
     public Person(){
 
     }
+
+    public abstract void delete(); // No implementation for this abstract method, but would be available in each subclass
+
+
 
     public String getFirstName() {
         return firstName;
