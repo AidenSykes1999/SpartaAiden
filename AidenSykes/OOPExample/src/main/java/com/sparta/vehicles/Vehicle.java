@@ -1,92 +1,52 @@
 package com.sparta.vehicles;
 
-import com.sparta.oop.Customer;
-
 public class Vehicle {
+    protected String colour;
+    protected String licensePlate;
+    protected int price;
+    protected String status;
+
+    public Vehicle(String colour, String licensePlate, int price, String status) {
+        this.colour = colour;
+        this.licensePlate = licensePlate;
+        this.price = price;
+        this.status = status;
+    }
 
 
-        private String make;
-        private String model;
-        private String colour;
-        private String engineSize;
-        private String licensePlate;
-        private int price;
-        private String status;
+    public Vehicle(){
 
-        public String toString() {
+    }
 
-            return "The car " + this.licensePlate +
-                    " is a  " + this.make + " , " + this.model + " Priced at " + this.price + " it comes in a "
-                    + this.colour + " finish and has an engine size of " + this.engineSize + " It is currently "
-                    + this.status;
+    public String getColour() {
+        return colour;
+    }
 
-        }
+    public void setColour(String colour) {
+        this.colour = colour;
+    }
 
+    public String getLicensePlate() {
+        return licensePlate;
+    }
 
-        public String getMake() {
-                return make;
-        }
+    public void setLicensePlate(String licensePlate) {
+        this.licensePlate = licensePlate;
+    }
 
-        public void setMake(String make) {
-                this.make = make;
-        }
+    public int getPrice() {
+        return price;
+    }
 
-        public String getModel() {
-                return model;
-        }
+    public void setPrice(int price) {
+        this.price = price;
+    }
 
-        public void setModel(String model) {
-                this.model = model;
-        }
+    public String getStatus() {
+        return status;
+    }
 
-        public String getColour() {
-                return colour;
-        }
-
-        public void setColour(String colour) {
-                this.colour = colour;
-        }
-
-        public String getEngineSize() {
-                return engineSize;
-        }
-
-        public void setEngineSize(String engineSize) {
-                this.engineSize = engineSize;
-        }
-
-        public String getLicensePlate() {
-                return licensePlate;
-        }
-
-        public void setLicensePlate(String licensePlate) {
-                this.licensePlate = licensePlate;
-        }
-
-        public int getPrice() {
-                return price;
-        }
-
-        public void setPrice(int price) {
-                this.price = price;
-        }
-
-        public String getStatus() {
-                return status;
-        }
-
-        public void setStatus(String status) {
-                this.status = status;
-        }
-
-        public Vehicle(String make, String model, String colour, String engineSize, String licensePlate, int price, String status) {
-                this.make = make;
-                this.model = model;
-                this.colour = colour;
-                this.engineSize = engineSize;
-                this.licensePlate = licensePlate;
-                this.price = price;
-                this.status = status;
-        }
+    public void setStatus(String status) {
+        this.status = status;
+    }
 }
-
