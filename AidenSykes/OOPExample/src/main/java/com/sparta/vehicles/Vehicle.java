@@ -1,6 +1,6 @@
 package com.sparta.vehicles;
 
-public class Vehicle {
+public abstract class Vehicle {
     protected String colour;
     protected String licensePlate;
     protected int price;
@@ -13,6 +13,7 @@ public class Vehicle {
         this.status = status;
     }
 
+    public abstract void delete();
 
     public Vehicle(){
 
@@ -49,4 +50,6 @@ public class Vehicle {
     public void setStatus(String status) {
         this.status = status;
     }
+
+    public abstract int compareTo(Car other);
 }

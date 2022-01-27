@@ -1,6 +1,8 @@
 package com.sparta.vehicles;
 
-public class Car extends Vehicle{
+import com.sparta.oop.Customer;
+
+public class Car extends Vehicle implements Comparable<Car>{
 
 
         private String make;
@@ -16,6 +18,12 @@ public class Car extends Vehicle{
 
         }
 
+        public Car(String make, String model, String colour, String engineSize, String licensePlate, int price, String status) {
+                super(colour, licensePlate, price, status);
+                this.make = make;
+                this.model = model;
+                this.engineSize = engineSize;
+        }
 
         public String getMake() {
                 return make;
@@ -31,6 +39,11 @@ public class Car extends Vehicle{
 
         public void setModel(String model) {
                 this.model = model;
+        }
+
+        @Override
+        public void delete() {
+
         }
 
         public String getColour() {
@@ -73,11 +86,11 @@ public class Car extends Vehicle{
                 this.status = status;
         }
 
-        public Car(String make, String model, String colour, String engineSize, String licensePlate, int price, String status) {
-                super(colour, licensePlate, price, status);
-                this.make = make;
-                this.model = model;
-                this.engineSize = engineSize;
+        @Override
+        public int compareTo(Car other) {
+                return getLicensePlate().compareTo(other.getLicensePlate());
         }
+
+
 }
 
