@@ -19,11 +19,6 @@ public class RetailStore {
         System.out.println(e);
         e.delete();
 
-//        Person antony = new Person();
-//        antony.setFirstName("Antony");
-//        antony.setLastName("Ademefun");
-//        System.out.println(antony);
-
         Person thePerson = new Customer(); // why does this work? a customer IS A person
         // Person testVariable = new ArrayList(); // an arraylist IS NOT A person
         // thePerson = new Person();

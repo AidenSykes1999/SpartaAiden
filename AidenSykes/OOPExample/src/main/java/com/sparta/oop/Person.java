@@ -17,7 +17,6 @@ public abstract class Person {
     public abstract void delete(); // No implementation for this abstract method, but would be available in each subclass
 
 
-
     public String getFirstName() {
         return firstName;
     }
