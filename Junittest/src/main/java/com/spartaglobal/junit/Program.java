@@ -5,18 +5,26 @@ public class Program {
 
         int timeOfDay = 21;
 
-        if (timeOfDay >= 5 && timeOfDay <= 12){
-            System.out.println("Good Morning!");
-        }
-        else if (timeOfDay >= 12 && timeOfDay <= 18){
-            System.out.println("Good Afternoon");
-        }
-        else {
-            System.out.println("Good Evening");
-        }
+        System.out.println(greeting(timeOfDay));
 
     }
 
+    public static String greeting(int timeOfDay) {
+
+        String greeting;
+
+
+        if (timeOfDay >= 5 && timeOfDay <= 12){
+            greeting = "Good Morning";
+        }
+        else if (timeOfDay >= 12 && timeOfDay <= 18){
+            greeting = "Good Afternoon";
+        }
+        else {
+            greeting = "Good Evening";
+        }
+        return greeting;
+    }
 
 
 }
