@@ -3,9 +3,9 @@ package com.spartaglobal.sortmanager;
 import java.util.Arrays;
 
 public class NumberArray {
-    public static String arrayOfNumbers() {
+    public static int[] arrayOfNumbers() {
 
-        int numArray[] = new int[10];
+        int numArray[] = new int[40];
         int rand = (int) (Math.random() * 10);
 
         for (int i = 0; i < numArray.length; i++) {
@@ -13,13 +13,14 @@ public class NumberArray {
 
         }
 
-        return Arrays.toString(numArray);
+        return numArray;
     }
 
     public static void main(String[] args) {
 
-        NumberArray numbers = new NumberArray();
-        System.out.println(numbers.arrayOfNumbers());
+        int[] numbers = arrayOfNumbers();
+        System.out.println(Arrays.toString(numbers));
+
     }
 
 }
