@@ -9,6 +9,11 @@ public class BubbleSorter {
     public static void bubbleSort(int[] array){
 
         int count = array.length;
+
+        if (count < 2){
+            return;
+        } // Validate lists that are exactly 1
+
         int temporary = 0;
 
         for(int i=0; i<count;i++){
