@@ -1,14 +1,13 @@
 package com.spartaglobal.unittests;
 
-import com.spartaglobal.sortmanager.BubbleSorter;
-import com.spartaglobal.sortmanager.MergeSorter;
-import com.spartaglobal.sortmanager.NumberArray;
+import com.spartaglobal.sortmanager.model.NumberArray;
+import com.spartaglobal.sortmanager.SorterDriver;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static com.spartaglobal.sortmanager.BubbleSorter.bubbleSort;
-import static com.spartaglobal.sortmanager.MergeSorter.mergeSort;
+import static com.spartaglobal.sortmanager.model.BubbleSorter.bubbleSort;
+import static com.spartaglobal.sortmanager.model.MergeSorter.mergeSort;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertLinesMatch;
 
@@ -40,10 +39,8 @@ public class SorterTests {
     }
 
     @Test
-    public void testingMainMethods() {
-        int[] numberTest = NumberArray.arrayOfNumbers();
-        new BubbleSorter(numberTest);
-        new MergeSorter(numberTest);
+    public void testingMainMethod() {
+        new SorterDriver();
 
 
     }

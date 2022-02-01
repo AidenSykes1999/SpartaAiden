@@ -1,9 +1,13 @@
 package com.spartaglobal.sortmanager;
 
+import com.spartaglobal.sortmanager.model.BubbleSorter;
+import com.spartaglobal.sortmanager.model.MergeSorter;
+import com.spartaglobal.sortmanager.model.NumberArray;
+
 import java.util.Arrays;
 
-import static com.spartaglobal.sortmanager.BubbleSorter.bubbleSort;
-import static com.spartaglobal.sortmanager.MergeSorter.mergeSort;
+import static com.spartaglobal.sortmanager.model.BubbleSorter.bubbleSort;
+import static com.spartaglobal.sortmanager.model.MergeSorter.mergeSort;
 
 public class SorterDriver {
 

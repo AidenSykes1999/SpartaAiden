@@ -1,8 +1,4 @@
-package com.spartaglobal.sortmanager;
-
-import java.util.Arrays;
-
-import static com.spartaglobal.sortmanager.NumberArray.arrayOfNumbers;
+package com.spartaglobal.sortmanager.model;
 
 public class MergeSorter {
 
