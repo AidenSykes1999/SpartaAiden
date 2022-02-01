@@ -5,6 +5,10 @@ public class BubbleSorter implements Sorter {
     public BubbleSorter(int[] numberTest) {
     }
 
+    public BubbleSorter() {
+
+    }
+
     public static void bubbleSort(int[] array){
 
         int count = array.length;

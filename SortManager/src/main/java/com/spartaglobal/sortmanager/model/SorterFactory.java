@@ -1,4 +1,8 @@
 package com.spartaglobal.sortmanager.model;
+import com.spartaglobal.sortmanager.model.Sorter;
 
-public class SorterFactory {
+public abstract class SorterFactory {
+
+abstract public Sorter getInstance();
+
 }

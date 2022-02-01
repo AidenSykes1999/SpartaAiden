@@ -5,6 +5,10 @@ public class MergeSorter implements Sorter {
     public MergeSorter(int[] numberTest) {
     }
 
+    public MergeSorter() {
+
+    }
+
     public static void mergeSort(int[] array, int count){
 
         count = array.length;
