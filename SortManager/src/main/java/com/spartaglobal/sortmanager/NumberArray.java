@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class NumberArray {
     public static int[] arrayOfNumbers() {
+        long seed = 48;
 
         int numArray[] = new int[40];
         int rand = (int) (Math.random() * 10);
