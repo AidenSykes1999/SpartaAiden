@@ -31,4 +31,8 @@ public class BubbleSorter implements Sorter {
 
     }
 
+    @Override
+    public String sort() {
+        return null;
+    }
 }
