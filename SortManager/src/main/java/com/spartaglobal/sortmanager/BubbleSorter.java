@@ -20,16 +20,13 @@ public class BubbleSorter {
             for (int j=1;j<(count-i);j++){
                 if(array[j-1] > array[j]){ // Swap elements if larger
                     temporary = array[j-1]; // Store so value isn't lost
-                    array[j-1] = array[j];
-                    array[j] = temporary;
+                    array[j-1] = array[j]; // If larger, array is moved left in the array
+                    array[j] = temporary; // smaller value is moved right
                 }
             }
         }
 
-
     }
-
-
 
     public static void main(String[] args) {
 

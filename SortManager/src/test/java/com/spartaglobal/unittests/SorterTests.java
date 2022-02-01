@@ -2,9 +2,13 @@ package com.spartaglobal.unittests;
 
 import com.spartaglobal.sortmanager.BubbleSorter;
 import com.spartaglobal.sortmanager.MergeSorter;
+import com.spartaglobal.sortmanager.NumberArray;
 import org.junit.jupiter.api.Test;
 
+import java.util.Arrays;
+
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+import static org.junit.jupiter.api.Assertions.assertLinesMatch;
 
 public class SorterTests {
 
@@ -25,4 +29,13 @@ public class SorterTests {
 
 
     }
+
+    @Test
+    public void generateNumberArray() {
+        int[] numberTest = NumberArray.arrayOfNumbers();
+        String expected = Arrays.toString(numberTest);
+
+    }
+
+
 }

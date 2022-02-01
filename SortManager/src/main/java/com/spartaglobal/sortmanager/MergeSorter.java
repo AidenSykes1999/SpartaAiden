@@ -12,6 +12,7 @@ public class MergeSorter {
         if (count < 2){
             return;
         } // Validate lists that are exactly 1
+
         int midpoint = count / 2; //find middle index
 
         int[] temporary = new int[midpoint]; //Middle Index
@@ -32,7 +33,7 @@ public class MergeSorter {
         }
 
     public static void merge(
-            int[] array, int[] temporary, int[] temporary2, int leftHandSide, int rightHandSide) {
+            int[] array, int[] temporary, int[] temporary2, int leftHandSide, int rightHandSide) { //Import from MergeSort
 
         int i = 0, j = 0, k = 0;
         while (i < leftHandSide && j < rightHandSide) {
