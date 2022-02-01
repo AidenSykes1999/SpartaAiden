@@ -1,6 +1,6 @@
 package com.spartaglobal.sortmanager.model;
 
-public class BubbleSorter {
+public class BubbleSorter implements Sorter {
 
     public BubbleSorter(int[] numberTest) {
     }

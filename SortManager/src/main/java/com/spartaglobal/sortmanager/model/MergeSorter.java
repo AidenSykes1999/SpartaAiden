@@ -1,6 +1,6 @@
 package com.spartaglobal.sortmanager.model;
 
-public class MergeSorter {
+public class MergeSorter implements Sorter {
 
     public MergeSorter(int[] numberTest) {
     }
