@@ -16,13 +16,5 @@ public class NumberArray {
 
         return numArray;
     }
-
-    public static void main(String[] args) {
-
-        int[] numbers = arrayOfNumbers();
-        System.out.println(Arrays.toString(numbers));
-
-    }
-
 }
 

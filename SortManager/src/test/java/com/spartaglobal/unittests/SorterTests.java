@@ -7,6 +7,8 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
+import static com.spartaglobal.sortmanager.BubbleSorter.bubbleSort;
+import static com.spartaglobal.sortmanager.MergeSorter.mergeSort;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertLinesMatch;
 
@@ -16,7 +18,7 @@ public class SorterTests {
     public void positiveMergeTest() {
         int[] actual = { 6, 2, 5, 1, 4, 3 };
         int[] expected = { 1, 2, 3, 4, 5, 6 };
-        MergeSorter.mergeSort(actual, actual.length);
+        mergeSort(actual, actual.length);
         assertArrayEquals(expected, actual);
     }
 
@@ -24,7 +26,7 @@ public class SorterTests {
     public void positiveBubbleTest() {
         int[] actual = {3, 6, 1, 2, 4, 5};
         int[] expected = {1, 2, 3, 4, 5, 6};
-        BubbleSorter.bubbleSort(actual);
+        bubbleSort(actual);
         assertArrayEquals(expected, actual);
 
 
