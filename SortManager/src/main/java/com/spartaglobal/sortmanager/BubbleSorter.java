@@ -6,6 +6,9 @@ import static com.spartaglobal.sortmanager.NumberArray.arrayOfNumbers;
 
 public class BubbleSorter {
 
+    public BubbleSorter(int[] numberTest) {
+    }
+
     public static void bubbleSort(int[] array){
 
         int count = array.length;

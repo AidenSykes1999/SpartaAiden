@@ -37,5 +37,14 @@ public class SorterTests {
 
     }
 
+    @Test
+    public void testingMainMethods() {
+        int[] numberTest = NumberArray.arrayOfNumbers();
+        new BubbleSorter(numberTest);
+        new MergeSorter(numberTest);
+
+
+    }
+
 
 }

@@ -6,6 +6,9 @@ import static com.spartaglobal.sortmanager.NumberArray.arrayOfNumbers;
 
 public class MergeSorter {
 
+    public MergeSorter(int[] numberTest) {
+    }
+
     public static void mergeSort(int[] array, int count){
 
         count = array.length;
