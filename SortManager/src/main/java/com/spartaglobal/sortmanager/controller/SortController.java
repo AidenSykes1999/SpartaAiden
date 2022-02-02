@@ -2,9 +2,6 @@ package com.spartaglobal.sortmanager.controller;
 
 import com.spartaglobal.sortmanager.model.*;
 
-import static com.spartaglobal.sortmanager.model.BubbleSorter.bubbleSort;
-import static com.spartaglobal.sortmanager.model.MergeSorter.mergeSort;
-
 public class SortController {
 
     public String initiateSort(String desiredSort) {
@@ -12,14 +9,13 @@ public class SortController {
         return s.sort();
     }
 
-    // simple factory method
     public Sorter getSorter(String sorterType){
+
 
         SorterFactory sf = switch (sorterType.toLowerCase()){
 
             case "merge" ->
                 new MergeFactory();
-
 
             case "bubble" ->
                 new BubbleFactory();
@@ -28,7 +24,9 @@ public class SortController {
             // yield instead of return
             yield null;}
         };
-        return sf.getInstance();
+
+            return sf.getInstance();
+
     }
 
 }

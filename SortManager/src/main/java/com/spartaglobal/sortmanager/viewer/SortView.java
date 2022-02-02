@@ -1,15 +1,42 @@
 package com.spartaglobal.sortmanager.viewer;
 import java.util.Scanner;
 
+import static com.spartaglobal.sortmanager.viewer.SortView.Choice.*;
+
 
 public class SortView {
+    public enum Choice {
+        MERGE("merge"), BUBBLE("bubble"), QUIT("quit");
+
+        private final String choice;
+
+        Choice(String name) {
+            this.choice = name;
+        }
+
+        public String getChoice() { return getChoice(); }
+
+    }
+
     public String sortSelector() {
 
-        System.out.println("Which Sort would you like to use?");
-        Scanner scanner = new Scanner(System.in);
-        String selectChoice = scanner.next();
-        return selectChoice;
 
+        boolean validEnum = false;
+        String selectChoice = null;
+
+        while (validEnum == false) {
+            System.out.println("Which Sort would you like to use?");
+            Scanner scanner = new Scanner(System.in);
+            selectChoice = scanner.next();
+
+            if (selectChoice.equals(BUBBLE.choice) || selectChoice.equals(MERGE.choice) || selectChoice.equals(QUIT.choice)) {
+                validEnum = true;
+
+            } else {
+                validEnum = false;
+            }
+        }
+        return selectChoice;
     }
 
     public void displaySort(String result) {
@@ -18,5 +45,5 @@ public class SortView {
 
     }
 
-
 }
+
