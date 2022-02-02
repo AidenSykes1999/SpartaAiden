@@ -2,6 +2,7 @@ package com.spartaglobal.sortmanager.viewer;
 import java.util.Scanner;
 import java.util.logging.LogManager;
 
+import static com.spartaglobal.sortmanager.SorterMain.logger;
 import static com.spartaglobal.sortmanager.viewer.SortView.Choice.*;
 
 
@@ -37,6 +38,7 @@ public class SortView {
                 validEnum = true;
 
             } else {
+                logger.warn("Incorrect Choice Selected");
                 validEnum = false;
             }
         }
