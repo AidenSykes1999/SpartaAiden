@@ -2,7 +2,12 @@ package com.spartaglobal.sortmanager.controller;
 
 import com.spartaglobal.sortmanager.model.*;
 
+import java.util.logging.LogManager;
+
 public class SortController {
+
+
+
 
     public String initiateSort(String desiredSort) {
         Sorter s = getSorter(desiredSort);

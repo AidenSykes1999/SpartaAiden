@@ -1,10 +1,14 @@
 package com.spartaglobal.sortmanager.viewer;
 import java.util.Scanner;
+import java.util.logging.LogManager;
 
 import static com.spartaglobal.sortmanager.viewer.SortView.Choice.*;
 
 
 public class SortView {
+
+
+
     public enum Choice {
         MERGE("merge"), BUBBLE("bubble"), QUIT("quit");
 
