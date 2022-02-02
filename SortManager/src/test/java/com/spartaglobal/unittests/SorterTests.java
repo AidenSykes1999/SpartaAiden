@@ -1,7 +1,10 @@
 package com.spartaglobal.unittests;
 
+import com.spartaglobal.sortmanager.model.BubbleFactory;
+import com.spartaglobal.sortmanager.model.MergeFactory;
 import com.spartaglobal.sortmanager.model.NumberArray;
 import com.spartaglobal.sortmanager.SorterDriver;
+import com.spartaglobal.sortmanager.viewer.SortView;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
@@ -39,11 +42,15 @@ public class SorterTests {
     }
 
     @Test
-    public void testingMainMethod() {
-        new SorterDriver();
-
+    public void createBubbleSort() {
+        BubbleFactory bubbleFactory = new BubbleFactory();
+        bubbleFactory.getInstance();
 
     }
 
-
+    @Test
+    public void createMergeSort() {
+        MergeFactory mergeFactory = new MergeFactory();
+        mergeFactory.getInstance();
+    }
 }
