@@ -31,7 +31,7 @@ public class SortView {
         while (validEnum == false) {
             System.out.println("Which Sort would you like to use?");
             Scanner scanner = new Scanner(System.in);
-            selectChoice = scanner.next();
+            selectChoice = scanner.next().toLowerCase();
 
             if (selectChoice.equals(BUBBLE.choice) || selectChoice.equals(MERGE.choice) || selectChoice.equals(QUIT.choice)) {
                 validEnum = true;
