@@ -11,13 +11,15 @@ public class SortView {
 
 
     public enum Choice {
-        MERGE("merge"), BUBBLE("bubble"), QUIT("quit");
+        MERGE("merge"), BUBBLE("bubble"), QUIT("quit"), BINARY("binary");
 
         private final String choice;
 
         Choice(String name) {
             this.choice = name;
         }
+
+
 
         public String getChoice() { return getChoice(); }
 
@@ -34,10 +36,21 @@ public class SortView {
             Scanner scanner = new Scanner(System.in);
             selectChoice = scanner.next().toLowerCase();
 
-            if (selectChoice.equals(BUBBLE.choice) || selectChoice.equals(MERGE.choice) || selectChoice.equals(QUIT.choice)) {
+
+
+            if (selectChoice.equals(BUBBLE.choice) || selectChoice.equals(MERGE.choice) || selectChoice.equals(QUIT.choice)
+                    || selectChoice.equals(BINARY.choice)) {
                 validEnum = true;
 
-            } else {
+            }
+
+            if (selectChoice.equals(QUIT.choice)){
+                logger.warn("System Terminated");
+                System.out.println("Exiting: ");
+                System.exit(1);
+            }
+
+            else {
                 logger.warn("Incorrect Choice Selected");
                 validEnum = false;
             }
@@ -46,6 +59,7 @@ public class SortView {
     }
 
     public void displaySort(String result) {
+        logger.info("Sort Successful!");
 
         System.out.println(result);
 

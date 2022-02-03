@@ -3,3 +3,61 @@ FILE [ERROR] 2022-02-02 14:32:40,265 main Sort Logger - Looking for User Input
 FILE [INFO ] 2022-02-02 14:34:25,701 main Sort Logger - Looking for User Input
 FILE [WARN ] 2022-02-02 14:34:28,843 main Sort Logger - Incorrect Choice Selected
 FILE [INFO ] 2022-02-02 14:34:35,681 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-03 10:02:22,820 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-03 10:03:11,350 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-03 10:03:41,558 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-03 10:11:33,245 main Sort Logger - Looking for User Input
+FILE [WARN ] 2022-02-03 10:11:36,287 main Sort Logger - Incorrect Choice Selected
+FILE [INFO ] 2022-02-03 10:11:42,750 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-03 10:11:42,855 main Sort Logger - Generating a randomly generated array.
+FILE [WARN ] 2022-02-03 10:11:42,856 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,856 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,856 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,856 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,856 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,857 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,857 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,857 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,857 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,857 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,857 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,857 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,858 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,858 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,858 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,858 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,858 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,858 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,858 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,858 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,858 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,858 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,859 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,859 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,859 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,859 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,859 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,859 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,859 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,859 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,859 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,860 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,860 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,860 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,860 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,860 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,860 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,860 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,860 main Sort Logger - Array with less than 2 values submitted.
+FILE [WARN ] 2022-02-03 10:11:42,861 main Sort Logger - Array with less than 2 values submitted.
+FILE [INFO ] 2022-02-03 10:11:42,862 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-03 10:12:28,427 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-03 10:12:30,736 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-03 10:15:39,537 main Sort Logger - Looking for User Input
+FILE [WARN ] 2022-02-03 10:15:41,668 main Sort Logger - Incorrect Choice Selected
+FILE [INFO ] 2022-02-03 10:16:19,976 main Sort Logger - Looking for User Input
+FILE [WARN ] 2022-02-03 10:16:22,046 main Sort Logger - Incorrect Choice Selected
+FILE [INFO ] 2022-02-03 10:18:19,905 main Sort Logger - Looking for User Input
+FILE [WARN ] 2022-02-03 10:18:22,952 main Sort Logger - Incorrect Choice Selected
+FILE [WARN ] 2022-02-03 10:18:26,024 main Sort Logger - Incorrect Choice Selected
+FILE [WARN ] 2022-02-03 10:18:33,479 main Sort Logger - System Terminated

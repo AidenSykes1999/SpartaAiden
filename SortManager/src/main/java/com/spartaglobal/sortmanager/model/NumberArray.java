@@ -2,6 +2,8 @@ package com.spartaglobal.sortmanager.model;
 
 import java.util.Arrays;
 
+import static com.spartaglobal.sortmanager.SorterMain.logger;
+
 public class NumberArray {
     public static int[] arrayOfNumbers() {
         long seed = 48;
@@ -13,7 +15,7 @@ public class NumberArray {
             numArray[i] = (int) (Math.random() * 10);
 
         }
-
+        logger.info("Generating a randomly generated array.");
         return numArray;
     }
 }

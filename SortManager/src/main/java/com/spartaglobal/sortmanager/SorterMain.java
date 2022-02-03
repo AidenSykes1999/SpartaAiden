@@ -11,6 +11,7 @@ public class SorterMain {
     public static Logger logger = LogManager.getLogger("Sort Logger");
     public static void main(String[] args) {
 
+        System.out.println("Available Commands: 'Merge', 'Bubble', 'Quit'");
         logger.info("Looking for User Input");
         SortView view = new SortView();
         String sortChoice = view.sortSelector();

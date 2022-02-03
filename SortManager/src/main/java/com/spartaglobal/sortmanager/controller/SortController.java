@@ -25,6 +25,9 @@ public class SortController {
             case "bubble" ->
                 new BubbleFactory();
 
+            case "binary" ->
+                    new BinaryFactory();
+
             default ->  { System.out.println("Unsupported request method: " + sorterType.toLowerCase());
             // yield instead of return
             yield null;}

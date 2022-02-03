@@ -2,6 +2,8 @@ package com.spartaglobal.sortmanager.model;
 
 import java.util.Arrays;
 
+import static com.spartaglobal.sortmanager.SorterMain.logger;
+
 public class MergeSorter implements Sorter {
 
     public MergeSorter(int[] numberTest) {
@@ -35,6 +37,8 @@ public class MergeSorter implements Sorter {
 
         count = array.length;
         if (count < 2){
+            
+
             return;
         } // Validate lists that are exactly 1
 
