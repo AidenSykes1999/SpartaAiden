@@ -21,5 +21,6 @@ public class SorterMain {
 
 
         view.displaySort(result);
+
     }
 }

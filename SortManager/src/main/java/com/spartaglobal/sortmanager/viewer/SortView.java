@@ -41,13 +41,12 @@ public class SortView {
             if (selectChoice.equals(BUBBLE.choice) || selectChoice.equals(MERGE.choice) || selectChoice.equals(QUIT.choice)
                     || selectChoice.equals(BINARY.choice)) {
                 validEnum = true;
+                if (selectChoice.equals(QUIT.choice)){
+                    logger.warn("System Terminated");
+                    System.out.println("Exiting: ");
+                    System.exit(1);
+                }
 
-            }
-
-            if (selectChoice.equals(QUIT.choice)){
-                logger.warn("System Terminated");
-                System.out.println("Exiting: ");
-                System.exit(1);
             }
 
             else {

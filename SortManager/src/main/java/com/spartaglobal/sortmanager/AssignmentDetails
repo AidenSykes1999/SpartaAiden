@@ -13,7 +13,8 @@ Create an interface which both sort classes can implement and make sure your app
 
 Phase 3
 Add logging code into the Sort Manager project. Set up log4j in the project and add a properties file.
-Create logs at different levels and fully test the resulting output. Have output going to the console and to a log file created in the resources directory.
+Create logs at different levels and fully test the resulting output.
+Have output going to a log file created in the resources directory.
 Ensure there are meaningful log messages added to the project and that they reflect the needs of the levels for which they are set.
 
 Phase 4

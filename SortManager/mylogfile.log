@@ -61,3 +61,15 @@ FILE [INFO ] 2022-02-03 10:18:19,905 main Sort Logger - Looking for User Input
 FILE [WARN ] 2022-02-03 10:18:22,952 main Sort Logger - Incorrect Choice Selected
 FILE [WARN ] 2022-02-03 10:18:26,024 main Sort Logger - Incorrect Choice Selected
 FILE [WARN ] 2022-02-03 10:18:33,479 main Sort Logger - System Terminated
+FILE [INFO ] 2022-02-03 10:23:50,105 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-03 10:44:08,662 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-03 10:51:13,116 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-03 11:07:32,642 main Sort Logger - Looking for User Input
+FILE [WARN ] 2022-02-03 11:07:35,029 main Sort Logger - Incorrect Choice Selected
+FILE [WARN ] 2022-02-03 11:07:38,549 main Sort Logger - Incorrect Choice Selected
+FILE [WARN ] 2022-02-03 11:07:40,726 main Sort Logger - System Terminated
+FILE [INFO ] 2022-02-03 11:08:36,281 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-03 11:08:39,134 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-03 11:08:39,153 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-03 11:08:39,154 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-03 11:08:39,154 main Sort Logger - null
