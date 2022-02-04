@@ -10,8 +10,9 @@ import java.util.Scanner;
 public class SorterMain {
     public static Logger logger = LogManager.getLogger("Sort Logger");
     public static void main(String[] args) {
-
-        System.out.println("Available Commands: 'Merge', 'Bubble', 'Quit'");
+        System.out.println("=== ======================================================= ===");
+        System.out.println("=== Available Commands: 'Merge', 'Bubble', 'Binary', 'Quit' ===");
+        System.out.println("=== ======================================================= ===");
         logger.info("Looking for User Input");
         SortView view = new SortView();
         String sortChoice = view.sortSelector();
