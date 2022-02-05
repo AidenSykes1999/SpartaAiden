@@ -49,6 +49,7 @@ public class MergeSorter implements Sorter {
 
         for (int i = 0; i < midpoint; i++) {
             temporary[i] = array[i];
+
         }
         for (int i = midpoint; i < count; i++) {
             temporary2[i - midpoint] = array[i];
@@ -68,6 +69,7 @@ public class MergeSorter implements Sorter {
         while (i < leftHandSide && j < rightHandSide) {
             if (temporary[i] <= temporary2[j]) {
                 array[k++] = temporary[i++];
+
             }
             else {
                 array[k++] = temporary2[j++];
@@ -79,6 +81,7 @@ public class MergeSorter implements Sorter {
         while (j < rightHandSide) {
             array[k++] = temporary2[j++];
         }
+
     }
 
     @Override

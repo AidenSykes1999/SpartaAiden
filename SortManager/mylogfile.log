@@ -19285,3 +19285,350 @@ FILE [INFO ] 2022-02-05 22:53:31,009 main Sort Logger - 9
 FILE [INFO ] 2022-02-05 22:53:31,009 main Sort Logger - 9 
 FILE [INFO ] 2022-02-05 22:53:31,009 main Sort Logger - Sort Successful!
 FILE [INFO ] 2022-02-05 22:53:31,011 main Sort Logger - Your sort took 4582096400 nano seconds to execute
+FILE [INFO ] 2022-02-05 22:57:00,400 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 22:57:05,318 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 22:57:05,319 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 22:57:05,320 main Sort Logger - Bubbled the number 0 
+FILE [INFO ] 2022-02-05 22:57:05,320 main Sort Logger - Bubbled the number 0 
+FILE [INFO ] 2022-02-05 22:57:05,320 main Sort Logger - Bubbled the number 0 
+FILE [INFO ] 2022-02-05 22:57:05,320 main Sort Logger - Bubbled the number 1 
+FILE [INFO ] 2022-02-05 22:57:05,321 main Sort Logger - Bubbled the number 1 
+FILE [INFO ] 2022-02-05 22:57:05,321 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 22:57:05,321 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 22:57:05,321 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 22:57:05,321 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 22:57:05,321 main Sort Logger - Bubbled the number 3 
+FILE [INFO ] 2022-02-05 22:57:05,321 main Sort Logger - Bubbled the number 3 
+FILE [INFO ] 2022-02-05 22:57:05,322 main Sort Logger - Bubbled the number 3 
+FILE [INFO ] 2022-02-05 22:57:05,322 main Sort Logger - Bubbled the number 3 
+FILE [INFO ] 2022-02-05 22:57:05,322 main Sort Logger - Bubbled the number 3 
+FILE [INFO ] 2022-02-05 22:57:05,322 main Sort Logger - Bubbled the number 4 
+FILE [INFO ] 2022-02-05 22:57:05,322 main Sort Logger - Bubbled the number 4 
+FILE [INFO ] 2022-02-05 22:57:05,322 main Sort Logger - Bubbled the number 4 
+FILE [INFO ] 2022-02-05 22:57:05,322 main Sort Logger - Bubbled the number 4 
+FILE [INFO ] 2022-02-05 22:57:05,323 main Sort Logger - Bubbled the number 4 
+FILE [INFO ] 2022-02-05 22:57:05,323 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 22:57:05,323 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 22:57:05,323 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 22:57:05,323 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 22:57:05,323 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 22:57:05,323 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 22:57:05,323 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 22:57:05,324 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 22:57:05,324 main Sort Logger - Bubbled the number 6 
+FILE [INFO ] 2022-02-05 22:57:05,324 main Sort Logger - Bubbled the number 6 
+FILE [INFO ] 2022-02-05 22:57:05,324 main Sort Logger - Bubbled the number 6 
+FILE [INFO ] 2022-02-05 22:57:05,324 main Sort Logger - Bubbled the number 6 
+FILE [INFO ] 2022-02-05 22:57:05,324 main Sort Logger - Bubbled the number 6 
+FILE [INFO ] 2022-02-05 22:57:05,324 main Sort Logger - Bubbled the number 7 
+FILE [INFO ] 2022-02-05 22:57:05,324 main Sort Logger - Bubbled the number 7 
+FILE [INFO ] 2022-02-05 22:57:05,325 main Sort Logger - Bubbled the number 7 
+FILE [INFO ] 2022-02-05 22:57:05,325 main Sort Logger - Bubbled the number 7 
+FILE [INFO ] 2022-02-05 22:57:05,325 main Sort Logger - Bubbled the number 8 
+FILE [INFO ] 2022-02-05 22:57:05,325 main Sort Logger - Bubbled the number 8 
+FILE [INFO ] 2022-02-05 22:57:05,325 main Sort Logger - Bubbled the number 9 
+FILE [INFO ] 2022-02-05 22:57:05,325 main Sort Logger - Bubbled the number 9 
+FILE [INFO ] 2022-02-05 22:57:05,325 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 22:57:05,328 main Sort Logger - Your sort took 4928762500 nano seconds to execute
+FILE [INFO ] 2022-02-05 22:57:42,563 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 22:57:45,336 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 22:57:45,338 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 22:57:45,339 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 22:57:45,342 main Sort Logger - Your sort took 2781092200 nano seconds to execute
+FILE [INFO ] 2022-02-05 22:58:20,636 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 22:58:22,729 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 22:58:22,731 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 22:58:57,885 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 22:59:00,450 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 22:59:00,452 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 22:59:00,452 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,452 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:00,453 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 22:59:00,453 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,453 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,453 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,453 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,453 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,453 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 22:59:00,453 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,453 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:00,453 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 22:59:00,454 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,455 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,456 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,456 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:00,456 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,456 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 22:59:00,456 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,456 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,456 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,456 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,456 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,456 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:00,457 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 22:59:00,458 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,459 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:00,460 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 22:59:00,461 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:00,461 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,461 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:00,461 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 22:59:00,461 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:00,461 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 22:59:00,461 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 22:59:00,461 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:00,462 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 22:59:00,465 main Sort Logger - Your sort took 2581377200 nano seconds to execute
+FILE [INFO ] 2022-02-05 22:59:46,490 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 22:59:48,275 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 22:59:48,277 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 22:59:48,277 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:48,277 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:48,278 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:48,278 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:48,278 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:48,278 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:48,278 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:48,278 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:48,278 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:48,278 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:48,279 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:48,279 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:48,279 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:48,279 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 22:59:48,279 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:48,280 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:48,280 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:48,280 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:48,280 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:48,280 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:48,281 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:48,281 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:48,281 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:48,281 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:48,281 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:48,281 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:48,281 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:48,281 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 22:59:48,281 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 22:59:48,282 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:48,282 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 22:59:48,282 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 22:59:48,282 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:48,282 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 22:59:48,282 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 22:59:48,282 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 22:59:48,282 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 22:59:48,283 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 22:59:48,283 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 22:59:48,284 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 22:59:48,286 main Sort Logger - Your sort took 1796920400 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:00:32,216 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:00:34,244 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:00:34,246 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:00:34,246 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:00:34,247 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:00:34,247 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:00:34,247 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:00:34,247 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:00:34,247 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:00:34,248 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:00:34,248 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:00:34,248 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:00:34,248 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:00:34,248 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:00:34,248 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:00:34,249 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 23:00:34,249 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 23:00:34,249 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 23:00:34,249 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 23:00:34,249 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 23:00:34,249 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 23:00:34,250 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 23:00:34,250 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 23:00:34,250 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 23:00:34,250 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 23:00:34,250 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 23:00:34,250 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 23:00:34,251 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 23:00:34,251 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 23:00:34,251 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 23:00:34,251 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 23:00:34,251 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 23:00:34,251 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 23:00:34,251 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 23:00:34,251 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 23:00:34,251 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 23:00:34,251 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 23:00:34,252 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 23:00:34,252 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 23:00:34,252 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 23:00:34,252 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 23:00:34,347 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 23:00:34,347 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 23:00:34,347 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:00:34,349 main Sort Logger - Your sort took 2135338000 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:01:02,567 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:01:04,268 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:01:04,270 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:01:04,271 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:01:04,271 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:01:04,271 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:01:04,272 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:01:04,272 main Sort Logger - Merged the number 0 
+FILE [INFO ] 2022-02-05 23:01:04,272 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:01:04,272 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:01:04,272 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:01:04,272 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:01:04,272 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:01:04,272 main Sort Logger - Merged the number 1 
+FILE [INFO ] 2022-02-05 23:01:04,272 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 2 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 3 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 4 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 5 
+FILE [INFO ] 2022-02-05 23:01:04,273 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 23:01:04,274 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 23:01:04,274 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 23:01:04,274 main Sort Logger - Merged the number 6 
+FILE [INFO ] 2022-02-05 23:01:04,274 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 23:01:04,274 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 23:01:04,274 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 23:01:04,274 main Sort Logger - Merged the number 7 
+FILE [INFO ] 2022-02-05 23:01:04,274 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 23:01:04,274 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 23:01:04,274 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 23:01:04,275 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 23:01:04,275 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 23:01:04,275 main Sort Logger - Merged the number 8 
+FILE [INFO ] 2022-02-05 23:01:04,275 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 23:01:04,275 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 23:01:04,275 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 23:01:04,275 main Sort Logger - Merged the number 9 
+FILE [INFO ] 2022-02-05 23:01:04,275 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:01:04,277 main Sort Logger - Your sort took 1711620500 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:02:08,191 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:02:10,607 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:02:10,609 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:02:10,610 main Sort Logger - Bubbled the number 0 
+FILE [INFO ] 2022-02-05 23:02:10,610 main Sort Logger - Bubbled the number 0 
+FILE [INFO ] 2022-02-05 23:02:10,611 main Sort Logger - Bubbled the number 0 
+FILE [INFO ] 2022-02-05 23:02:10,611 main Sort Logger - Bubbled the number 0 
+FILE [INFO ] 2022-02-05 23:02:10,611 main Sort Logger - Bubbled the number 0 
+FILE [INFO ] 2022-02-05 23:02:10,611 main Sort Logger - Bubbled the number 1 
+FILE [INFO ] 2022-02-05 23:02:10,611 main Sort Logger - Bubbled the number 1 
+FILE [INFO ] 2022-02-05 23:02:10,611 main Sort Logger - Bubbled the number 1 
+FILE [INFO ] 2022-02-05 23:02:10,611 main Sort Logger - Bubbled the number 1 
+FILE [INFO ] 2022-02-05 23:02:10,612 main Sort Logger - Bubbled the number 1 
+FILE [INFO ] 2022-02-05 23:02:10,612 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 23:02:10,612 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 23:02:10,612 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 23:02:10,612 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 23:02:10,612 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 23:02:10,612 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 23:02:10,612 main Sort Logger - Bubbled the number 2 
+FILE [INFO ] 2022-02-05 23:02:10,613 main Sort Logger - Bubbled the number 3 
+FILE [INFO ] 2022-02-05 23:02:10,613 main Sort Logger - Bubbled the number 3 
+FILE [INFO ] 2022-02-05 23:02:10,613 main Sort Logger - Bubbled the number 4 
+FILE [INFO ] 2022-02-05 23:02:10,613 main Sort Logger - Bubbled the number 4 
+FILE [INFO ] 2022-02-05 23:02:10,613 main Sort Logger - Bubbled the number 4 
+FILE [INFO ] 2022-02-05 23:02:10,613 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 23:02:10,613 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 23:02:10,614 main Sort Logger - Bubbled the number 5 
+FILE [INFO ] 2022-02-05 23:02:10,614 main Sort Logger - Bubbled the number 6 
+FILE [INFO ] 2022-02-05 23:02:10,614 main Sort Logger - Bubbled the number 6 
+FILE [INFO ] 2022-02-05 23:02:10,614 main Sort Logger - Bubbled the number 6 
+FILE [INFO ] 2022-02-05 23:02:10,614 main Sort Logger - Bubbled the number 7 
+FILE [INFO ] 2022-02-05 23:02:10,614 main Sort Logger - Bubbled the number 7 
+FILE [INFO ] 2022-02-05 23:02:10,614 main Sort Logger - Bubbled the number 7 
+FILE [INFO ] 2022-02-05 23:02:10,615 main Sort Logger - Bubbled the number 7 
+FILE [INFO ] 2022-02-05 23:02:10,615 main Sort Logger - Bubbled the number 8 
+FILE [INFO ] 2022-02-05 23:02:10,615 main Sort Logger - Bubbled the number 8 
+FILE [INFO ] 2022-02-05 23:02:10,615 main Sort Logger - Bubbled the number 9 
+FILE [INFO ] 2022-02-05 23:02:10,615 main Sort Logger - Bubbled the number 9 
+FILE [INFO ] 2022-02-05 23:02:10,615 main Sort Logger - Bubbled the number 9 
+FILE [INFO ] 2022-02-05 23:02:10,615 main Sort Logger - Bubbled the number 9 
+FILE [INFO ] 2022-02-05 23:02:10,616 main Sort Logger - Bubbled the number 9 
+FILE [INFO ] 2022-02-05 23:02:10,616 main Sort Logger - Bubbled the number 9 
+FILE [INFO ] 2022-02-05 23:02:10,616 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:02:10,619 main Sort Logger - Your sort took 2428513800 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:02:41,223 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:02:43,296 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:02:43,298 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:02:43,299 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:02:43,301 main Sort Logger - Your sort took 2078240600 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:02:47,666 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:02:50,342 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:02:50,344 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:02:50,346 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:02:50,348 main Sort Logger - Your sort took 2684219800 nano seconds to execute

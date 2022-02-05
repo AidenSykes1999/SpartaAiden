@@ -27,7 +27,6 @@ public class BubbleSorter implements Sorter {
 
         for(int i=0; i < numberTest.length; i++){
             System.out.print(numberTest[i] + " ");
-            logger.info(numberTest[i] + " ");
         }
         System.out.println();
 
