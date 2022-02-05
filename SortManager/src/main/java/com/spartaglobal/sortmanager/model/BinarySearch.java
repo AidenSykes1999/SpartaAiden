@@ -2,14 +2,46 @@ package com.spartaglobal.sortmanager.model;
 
 
 import java.util.ArrayList;
+import java.util.Arrays;
+
+import static com.spartaglobal.sortmanager.SorterMain.logger;
 
 public class BinarySearch implements Sorter {
+
+    public BinarySearch(){
+
+
+        System.out.println();
+        System.out.println("========== Generate Array ==========");
+        System.out.println();
+        int[] numberTest = NumberArray.arrayOfNumbers();
+        int count = numberTest.length;
+        System.out.println(Arrays.toString(numberTest));
+        System.out.println();
+
+        System.out.println("==========  Binary Search  =========");
+        System.out.println();
+
+
+        for(int i=0; i < numberTest.length; i++){
+            addRoot(numberTest[i]);
+
+        }
+        inorder();
+
+
+        System.out.println();
+        System.out.println("====================================");
+
+    }
+
 
 
     BinaryNode rootNode; //First Node in the Binary Search Tree.
 
     public void addRoot(int value) {
-        System.out.println("Adding Number " + value + " to binary tree");
+        logger.info("Adding Number " + value + " to binary tree");
+
         rootNode = addNewNode(rootNode, value); // Add Root Node to Binary Tree
 
     }
@@ -90,20 +122,20 @@ void inorder() {
     }
 
 
-    public static void main(String[] args) {
-        int[] numberTest = NumberArray.arrayOfNumbers();
-        int count = numberTest.length;
-        System.out.println(numberTest.length);
-        BinarySearch searcher = new BinarySearch();
-
-        for(int i=0; i < numberTest.length; i++){
-            searcher.addRoot(numberTest[i]);
-
-        }
-        searcher.inorder();
-
-
-    }
+//    public static void main(String[] args) {
+//        int[] numberTest = NumberArray.arrayOfNumbers();
+//        int count = numberTest.length;
+//        System.out.println(numberTest.length);
+//        BinarySearch searcher = new BinarySearch();
+//
+//        for(int i=0; i < numberTest.length; i++){
+//            searcher.addRoot(numberTest[i]);
+//
+//        }
+//        searcher.inorder();
+//
+//
+//    }
 
 
     @Override

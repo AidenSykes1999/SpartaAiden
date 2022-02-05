@@ -1,10 +1,12 @@
 package com.spartaglobal.unittests;
 
+import com.spartaglobal.sortmanager.model.BinaryFactory;
 import com.spartaglobal.sortmanager.model.BubbleFactory;
 import com.spartaglobal.sortmanager.model.MergeFactory;
 import com.spartaglobal.sortmanager.model.NumberArray;
 import com.spartaglobal.sortmanager.SorterDriver;
 import com.spartaglobal.sortmanager.viewer.SortView;
+import com.sun.source.tree.BinaryTree;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -68,6 +70,13 @@ public class SorterTests {
     public void createMergeSort() {
         MergeFactory mergeFactory = new MergeFactory();
         mergeFactory.getInstance();
+    }
+
+    @Test
+    @DisplayName("Trying to create a Binary Tree by calling it through its' factory.")
+    public void createBinaryTree() {
+        BinaryFactory binaryTree = new BinaryFactory();
+        binaryTree.getInstance();
     }
 
     @Test
