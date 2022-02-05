@@ -19632,3 +19632,131 @@ FILE [INFO ] 2022-02-05 23:02:50,342 main Sort Logger - Attempting to perform a 
 FILE [INFO ] 2022-02-05 23:02:50,344 main Sort Logger - Generating a randomly generated array.
 FILE [INFO ] 2022-02-05 23:02:50,346 main Sort Logger - Sort Successful!
 FILE [INFO ] 2022-02-05 23:02:50,348 main Sort Logger - Your sort took 2684219800 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:35:06,143 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:35:08,828 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:35:09,421 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:35:09,423 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:35:09,427 main Sort Logger - Your sort took 3287867000 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:36:26,398 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:36:29,087 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:36:29,089 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:36:29,092 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:36:29,094 main Sort Logger - Your sort took 2697370700 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:42:16,938 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:42:20,144 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:42:20,146 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:42:20,148 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:42:20,151 main Sort Logger - Your sort took 3214172000 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:42:43,399 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:42:45,218 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:42:45,220 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:42:45,221 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:42:45,224 main Sort Logger - Your sort took 1826261700 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:45:22,054 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:45:24,636 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:45:24,794 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:45:24,795 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:45:24,797 main Sort Logger - Your sort took 2745875200 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:45:38,065 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:45:39,471 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:45:39,473 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:45:39,474 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:45:39,478 main Sort Logger - Your sort took 1412867000 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:46:12,400 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:46:13,766 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:46:13,768 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:46:13,769 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:46:13,771 main Sort Logger - Your sort took 1371876400 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:46:17,189 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:46:21,669 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:46:21,670 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:46:21,671 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:46:21,671 main Sort Logger - Your sort took 4482178000 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:46:24,685 main Sort Logger - Looking for User Input
+FILE [WARN ] 2022-02-05 23:46:26,925 main Sort Logger - Incorrect Choice Selected
+FILE [WARN ] 2022-02-05 23:46:29,485 main Sort Logger - System Terminated
+FILE [INFO ] 2022-02-05 23:46:35,637 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:46:38,389 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:46:38,391 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:46:38,392 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:46:38,394 main Sort Logger - Your sort took 2757730800 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:46:54,554 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:46:57,951 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:46:57,953 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:46:57,954 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:46:57,957 main Sort Logger - Your sort took 3404374000 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:47:02,822 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:47:04,646 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:47:04,658 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:47:04,658 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:47:04,659 main Sort Logger - Your sort took 1836918200 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:47:06,982 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:47:09,000 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:47:09,000 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:47:09,001 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:47:09,001 main Sort Logger - Your sort took 2018442800 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:52:13,646 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:52:15,489 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:52:15,490 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:52:15,491 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:52:15,495 main Sort Logger - Your sort took 1852165900 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:52:21,886 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:52:28,774 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:52:28,774 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:52:28,775 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:52:28,775 main Sort Logger - Your sort took 6888635400 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:52:30,118 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:52:31,558 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:52:31,558 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:52:31,559 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:52:31,559 main Sort Logger - Your sort took 1441606400 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:53:57,818 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:54:00,402 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:54:00,405 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:54:00,406 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:54:00,409 main Sort Logger - Your sort took 2592595000 nano seconds to execute
+FILE [INFO ] 2022-02-05 23:54:01,648 main Sort Logger - Looking for User Input
+FILE [INFO ] 2022-02-05 23:54:03,288 main Sort Logger - Attempting to perform a merge.
+FILE [INFO ] 2022-02-05 23:54:03,289 main Sort Logger - Generating a randomly generated array.
+FILE [INFO ] 2022-02-05 23:54:03,289 main Sort Logger - Adding Number 4 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,290 main Sort Logger - Adding Number 1 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,290 main Sort Logger - Adding Number 0 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,290 main Sort Logger - Adding Number 4 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,290 main Sort Logger - Adding Number 9 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,290 main Sort Logger - Adding Number 2 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,290 main Sort Logger - Adding Number 6 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,290 main Sort Logger - Adding Number 2 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,291 main Sort Logger - Adding Number 0 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,291 main Sort Logger - Adding Number 1 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,291 main Sort Logger - Adding Number 4 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,291 main Sort Logger - Adding Number 5 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,291 main Sort Logger - Adding Number 7 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,291 main Sort Logger - Adding Number 4 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,291 main Sort Logger - Adding Number 7 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,291 main Sort Logger - Adding Number 7 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,291 main Sort Logger - Adding Number 8 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 0 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 6 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 4 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 0 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 3 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 8 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 4 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 5 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 4 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 5 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 0 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 1 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,292 main Sort Logger - Adding Number 0 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,293 main Sort Logger - Adding Number 2 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,293 main Sort Logger - Adding Number 1 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,293 main Sort Logger - Adding Number 1 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,293 main Sort Logger - Adding Number 9 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,293 main Sort Logger - Adding Number 2 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,293 main Sort Logger - Adding Number 2 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,294 main Sort Logger - Adding Number 4 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,294 main Sort Logger - Adding Number 8 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,294 main Sort Logger - Adding Number 2 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,294 main Sort Logger - Adding Number 3 to binary tree
+FILE [INFO ] 2022-02-05 23:54:03,295 main Sort Logger - Sort Successful!
+FILE [INFO ] 2022-02-05 23:54:03,295 main Sort Logger - Your sort took 1647728300 nano seconds to execute

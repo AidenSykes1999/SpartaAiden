@@ -140,6 +140,6 @@ void inorder() {
 
     @Override
     public String sort() {
-        return null;
+        return "";
     }
 }

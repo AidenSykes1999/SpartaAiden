@@ -86,6 +86,6 @@ public class MergeSorter implements Sorter {
 
     @Override
     public String sort() {
-        return null;
+        return "";
     }
 }

@@ -11,6 +11,7 @@ public class NumberArray {
         int numArray[] = new int[40];
         int rand = (int) (Math.random() * 10);
 
+
         for (int i = 0; i < numArray.length; i++) {
             numArray[i] = (int) (Math.random() * 10);
 
