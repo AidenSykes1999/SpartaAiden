@@ -90,6 +90,11 @@ Simply run this project using IntelliJ Community Edition. Make sure to install t
 
 * <h3>Main</h3>
 
+From the Main Class, you will be able to control this program. Your requests will be read in the Controller Area before being passed into the respective model.
+Updates, Sent Data and Responses are managed by the View Area.
+
+![](Screenshot_1.png)
+
 * <h3>Controller</h3>
 
 * <h3>View</h3>
