@@ -97,7 +97,22 @@ Updates, Sent Data and Responses are managed by the View Area.
 
 * <h3>Controller</h3>
 
+The Controller will take your request and parse it into one of the available requests. At the moment this program supports 'Merge', 'Bubble' and 'Binary' commands as well as the option to 'Quit' the program.
+
+![](Screenshot_2.png)
+
+Provided you enter a correct option, the program will then perform the appropriate function. For more information, please see the [Model] section.
+
+
 * <h3>View</h3>
+
+The View section of the project will provide you with updates and results. These updates include validation failures. For example, if you select a wrong choice the view will communicate with you.
+
+![](Screenshot_3.png)
+
+This is accomplished by comparing your input to a catalogue of commands stored within the View.
+
+![](Screenshot_4.png)
 
 * <h3>Model</h3>
 
@@ -105,9 +120,7 @@ Updates, Sent Data and Responses are managed by the View Area.
 
 
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

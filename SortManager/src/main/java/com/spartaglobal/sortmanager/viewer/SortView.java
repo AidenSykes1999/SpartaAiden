@@ -19,8 +19,6 @@ public class SortView {
             this.choice = name;
         }
 
-
-
         public String getChoice() { return getChoice(); }
 
     }
