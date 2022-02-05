@@ -1,6 +1,8 @@
 package com.spartaglobal.sortmanager.model;
 
 
+import java.util.ArrayList;
+
 public class BinarySearch implements Sorter {
 
 
@@ -23,12 +25,13 @@ public class BinarySearch implements Sorter {
 
         if (value < currentNode.value) {
             currentNode.left = addNewNode(currentNode.left, value); //If value is less, add to the left-hand side
-        } else if (value > currentNode.value) {
+        } else if (value >= currentNode.value) {
             currentNode.right = addNewNode(currentNode.right, value); //If value is more, add to the right-hand side
         } else {
 
             return currentNode;
         }
+
         return currentNode;
 
     }
@@ -49,6 +52,7 @@ public class BinarySearch implements Sorter {
             this.value = value;
             right = null; //Declared for assigning later
             left = null;
+
         }
 
     }
@@ -72,26 +76,31 @@ public class BinarySearch implements Sorter {
 //        return bt;
 //    }
 
+void inorder() {
+    searchInOrder(rootNode);
+}
 
-    public void searchInOrder(BinaryNode node) {
-        if (node != null) {
-            searchInOrder(node.left);
-            System.out.print(" " + node.value);
-            searchInOrder(node.right);
+    // recursively traverse the BST
+    void searchInOrder(BinaryNode rootNode) {
+        if (rootNode != null) {
+            searchInOrder(rootNode.left);
+            System.out.print(rootNode.value + " ");
+            searchInOrder(rootNode.right);
         }
     }
+
 
     public static void main(String[] args) {
         int[] numberTest = NumberArray.arrayOfNumbers();
         int count = numberTest.length;
-
+        System.out.println(numberTest.length);
         BinarySearch searcher = new BinarySearch();
 
         for(int i=0; i < numberTest.length; i++){
             searcher.addRoot(numberTest[i]);
 
         }
-
+        searcher.inorder();
 
 
     }
