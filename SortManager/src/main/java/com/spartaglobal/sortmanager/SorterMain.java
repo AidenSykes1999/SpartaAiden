@@ -40,6 +40,7 @@ public class SorterMain {
             System.out.println("Would you like to run another Method?");
             Scanner scanner = new Scanner(System.in);
             String selectContinue = scanner.next().toLowerCase();
+
             if(selectContinue.equals("no") || selectContinue.equals("n")){
                 System.out.println("Your times are " + timeArray );
                 isRunning = false;

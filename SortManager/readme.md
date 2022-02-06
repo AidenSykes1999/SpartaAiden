@@ -116,9 +116,32 @@ This is accomplished by comparing your input to a catalogue of commands stored w
 
 * <h3>Model</h3>
 
+The Model package of this project contains all of the methods and factories which sort and generate the arrays requested from the Controller.
+
+The following sorting methods have fully integrated methods and factories:
+
+- Bubble Sort
+
+Will sort the array by comparing elements. If an element is larger than the element to the left of it, then the program will swap these values around until the array is fully in order.
+
+![](Screenshot_5.png)
 
 
+- Merge Sort
 
+Will split the array into two even chunks. These chunks are then split again and swapped around until they are in order. Once chunks are in order, they shall be merged again. The final product occurs when the last merge gives us a fully sorted array.
+
+
+![](Screenshot_6.png)
+
+
+- Binary Tree Search
+
+Converts each value into a 'Node'. Following from the first Node, known as the 'Root Node' the left-hand side of the node will contain the next smaller value whilst the right will contain the next larger value.
+
+  - Uses an in-ordered search. Also returns duplicate values so that output is consistent with other arrays.
+
+![](Screenshot_7.png)
 
 
 
